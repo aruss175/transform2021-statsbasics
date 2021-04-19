@@ -1,4 +1,4 @@
-lasio==1.1.5
+lasio==0.29
 numpy==1.19.5
 scipy==1.4.1
 matplotlib==3.2.2
